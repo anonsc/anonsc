@@ -1,6 +1,6 @@
 # Hi, I'm **anonsc** 👋
 
-> ** PoC,Prototype‑quick, depth‑curious engineer**
+PoC,Prototype‑quick, depth‑curious engineer
 
 ### ⚡ Core Snapshot
 
